@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-LIVE SITE : (checktours-app.netlify.app)
+LIVE SITE : [tours app](https://checktours-app.netlify.app)
 
 # Available Scripts
 
